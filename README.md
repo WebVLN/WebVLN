@@ -67,7 +67,7 @@ git checkout main
 bash run/eval.bash
 ```
 
-### Zero-shot usning LLMs
+### Zero-shot using LLMs
 ```bash
 cd WebVLN
 git checkout zeroshot
