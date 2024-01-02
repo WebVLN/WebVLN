@@ -2,7 +2,7 @@ name=eval
 
 flag="--vlnbert prevalent
 
-      --load=logs/train/state_dict/best_val
+      --load=Downloads/ckpt/best_val
 
       --test_only 0
       --train valid
