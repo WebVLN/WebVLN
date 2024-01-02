@@ -26,10 +26,12 @@ Vision-and-Language Navigation (VLN) task aims to enable AI agents to accurately
 -->
 
 ## WebVLN-v1 Dataset
-Download the WebVLN-v1 dataset and pre-trained models, and organise data like below:
+Download the WebVLN-v1 dataset and pre-trained models from [Google Drive](https://drive.google.com/drive/folders/1Gzm44P5QBxvBYUU4BiYW-WlxbiB5M19K?usp=sharing), and organise data like below:
 ```
 |- WebVLN
     |- Downloads
+        |- ckpt
+            |- best_val
         |- Data
             |- seen
                 | ...
